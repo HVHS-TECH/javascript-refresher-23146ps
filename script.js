@@ -1,4 +1,4 @@
 function start() 
 {
-    alert("Congratulations!\nYou got the script running.")
+    alert(inputMessage.value)
 };
