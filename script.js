@@ -1,4 +1,6 @@
+const OUTPUT = document.getElementById("scriptchange")
+
 function start() 
 {
-    alert(textMessage.value)
+    OUTPUT.innerHTML = "<h1>" + textMessage.value + "</h1>"
 };
