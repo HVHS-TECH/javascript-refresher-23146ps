@@ -1,4 +1,4 @@
 function start() 
 {
-    alert(inputMessage.value)
+    alert(textMessage.value)
 };
